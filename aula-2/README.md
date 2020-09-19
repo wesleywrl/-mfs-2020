@@ -1,3 +1,5 @@
+35 Comandos Linux Que Todo Usuário Deve Conhecer
+
 1. Comando pwd
 Use o comando pwd para encontrar o caminho para o diretório atual (da pasta) em que você está. O comando vai retornar um caminho completo (cheio), que é basicamente um caminho que começa com uma barra inclinada (/). Um exemplo de um caminho completo é /home/username.
 
